@@ -1,5 +1,5 @@
 PAGECOUNT = 217
-URL = "https://www.roleplayerguild.com/topics/75056-mahzs-dev-journal/ooc?page=217#post-5113336"
+URL = "https://www.roleplayerguild.com/topics/75056-mahzs-dev-journal/ooc"
 
 
 import urllib.request
