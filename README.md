@@ -6,3 +6,7 @@ To use, just replace the URL with the URL of the thread you want to scrape and t
 The data is saved in an object with the format of data[page][postOnPage][(text, poster, post ID)] and written to a file
 
 e.g. data[1][4][0] gets the text of the fifth post on page 2 (0-indexed) 
+
+
+
+For unrelated content, subscribe to me at https://YouTube.com/LegendBegins
